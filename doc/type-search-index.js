@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"cp213","l":"A05Main"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cp213","l":"Coefficients"},{"p":"cp213","l":"Polynomial"},{"p":"cp213","l":"Term"}];updateSearchResults();
